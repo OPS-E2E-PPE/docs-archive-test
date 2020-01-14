@@ -1,16 +1,23 @@
-version: 2
-jobs:
-  build:
-    steps:
-      - checkout
-      - run: <command>
-  test:
-    steps:
-      - checkout
-      - run: <command>
-workflows:
-  version: 2
-  build_and_test:
-    jobs:
-      - build
-      - test
+### YamlMime:YamlDocument
+
+documentType: LandingData
+
+title: Azure Front Door Service Documentation
+
+metadata:
+
+  title: Azure Front Door Service Documentation
+
+  meta.description: Azure Front Door Service provides a scalable and secure entry point for fast delivery of your global web applications. Learn how to use Front Door with our quickstarts, tutorials, and samples.
+
+  services: frontdoor
+
+  author: dlepow
+
+  ms.service: frontdoor
+
+  ms.topic: landing-page
+
+  ms.date: 9/14/2018
+
+  ms.author: danlep
