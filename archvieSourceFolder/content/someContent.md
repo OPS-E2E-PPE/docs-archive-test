@@ -7,4 +7,4 @@ title: Some Content
 
 [Index](../index.md)
 
-![CoVer.jpg](./CoVer.jpg)
+![sql-database-engine.png](./sql-database-engine.png)
