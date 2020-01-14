@@ -39,6 +39,7 @@
     "globalMetadata": {
       "breadcrumb_path": "/archive-source/breadcrumb/toc.json",
       "extendBreadcrumb": true,
+      "protocol_rendering": "None",
       "feedback_system": "None"
     },
     "fileMetadata": {},
